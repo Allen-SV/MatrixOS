@@ -8,6 +8,6 @@ MatrixOS is a Java-based file management system that organizes files.
 - Bulk renaming
 
 ## Tech Stack
--Java
--Java Swing
--File I/O
+- Java
+- Java Swing
+- File I/O
